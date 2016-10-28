@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  report_id: 1
+  order: 1
+  name: MyString
+  status: MyString
+  content: MyText
+  apikey: MyString
+  deleted_date: 2016-10-28 10:13:56
+
+two:
+  report_id: 1
+  order: 1
+  name: MyString
+  status: MyString
+  content: MyText
+  apikey: MyString
+  deleted_date: 2016-10-28 10:13:56

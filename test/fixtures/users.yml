@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  engine_id: 1
+  name: MyString
+  email: MyString
+  status: MyString
+  notes: MyText
+  password_hash: MyString
+  password_salt: MyString
+  apikey: MyString
+  deleted_date: 2016-10-28 10:13:52
+
+two:
+  engine_id: 1
+  name: MyString
+  email: MyString
+  status: MyString
+  notes: MyText
+  password_hash: MyString
+  password_salt: MyString
+  apikey: MyString
+  deleted_date: 2016-10-28 10:13:52

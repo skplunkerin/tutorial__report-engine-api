@@ -1,0 +1,27 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  property_id: 1
+  name: MyString
+  summary: MyText
+  status: MyString
+  publish_date: 2016-10-28 10:13:55
+  version: MyString
+  notes: MyText
+  initial_view_date: 2016-10-28 10:13:55
+  view_count: 1
+  apikey: MyString
+  deleted_date: 2016-10-28 10:13:55
+
+two:
+  property_id: 1
+  name: MyString
+  summary: MyText
+  status: MyString
+  publish_date: 2016-10-28 10:13:55
+  version: MyString
+  notes: MyText
+  initial_view_date: 2016-10-28 10:13:55
+  view_count: 1
+  apikey: MyString
+  deleted_date: 2016-10-28 10:13:55
